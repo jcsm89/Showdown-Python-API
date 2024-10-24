@@ -1,1 +1,2 @@
-from .interface import Generation, Name, Species, TypeName, GenderName
+from .interface import Generation, Name, Ability, Species, Type, Gender, \
+    Stat, Nature, Status, Move, Moveset
